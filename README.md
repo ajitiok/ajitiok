@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajitiok&theme=merko&hide_border=true&border_radius=5.7&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 <!--
 **ajitiok/ajitiok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
