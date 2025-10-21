@@ -1,76 +1,58 @@
-<h1 align="left">Hey 👋 What's up</h1>
+<!-- 🕶️ Aji Tio Kuswandhito — The Code Whisperer -->
+<pre align="center">
+      ___      _ _   _____ _       
+     / _ \ ___(_) |_|  ___(_)_ __  
+    | | | / __| | __| |_  | | '_ \ 
+    | |_| \__ \ | |_|  _| | | | | |
+     \___/|___/_|\__|_|   |_|_| |_|
+</pre>
 
-###
+<h2 align="center">🕶️ Aji Tio Kuswandhito</h2>
+<p align="center">
+  <em>"Silently pushing commits while the world sleeps."</em>
+</p>
 
-<p align="left">My name is Aji Tio K and I'm a Full Stack Developer, from Malang, Indonesia.</p>
+---
 
-###
+### 👨‍💻 About Me
+- 💡 Frontend Dev with 5+ years crafting web interfaces that *whisper in TypeScript*.  
+- ⚡ Currently building dashboards, with React + Next.js.  
+- 🧠 Loves clean code, dark themes, and the sound of `npm run dev`.  
+- 🌙 Side quests: learning Go & Rust — languages as sharp as their logos.  
 
-<p align="left"></p>
+---
 
-###
+### 🧰 Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,javascript,python,php,dart,nodejs,express,nest,tailwind,bootstrap,git,github,vscode,mysql,postgres,mongodb,firebase" />
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
+### 📈 The Matrix of My Commits
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajitiok&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitiok&theme=tokyonight" height="150" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitiok&bg_color=0D1117&color=00FFF7&line=00C0FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajitiok&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajitiok&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 🕶️ Fun Fact
+> I don’t debug.  
+> I **interrogate the code** until it confesses.
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/ajitiok/ajitiok/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Building+Things+That+Shouldn't+Exist;Turning+Coffee+Into+Frontend+Magic;404+Sleep+Not+Found;Welcome+to+My+Digital+Lair" alt="Typing SVG" />
+</p>
 
-###
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajitiok&label=visits&color=00FFF7&style=flat" alt="Profile Views" />
+</p>
