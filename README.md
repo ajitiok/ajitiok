@@ -18,7 +18,7 @@
 
 ### 🧰 Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,javascript,python,php,dart,nodejs,express,nest,tailwind,bootstrap,git,github,vscode,mysql,postgres,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,typescript,javascript,python,php,dart,nodejs,express,nest,tailwind,bootstrap,git,github,gitlab,vscode,mysql,postgres,mongodb,firebase,html,jquery,instagram,linkedin,netlify,postman,replit,sublime,vite,vitest,vscode,yarn,rust" />
 </p>
 
 ---
