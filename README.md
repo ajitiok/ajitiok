@@ -25,11 +25,6 @@
 
 ### 📈 The Matrix of My Commits
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajitiok&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitiok&theme=tokyonight" height="150" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitiok&bg_color=0D1117&color=00FFF7&line=00C0FF&point=FFFFFF&area=true&hide_border=true&t=20251021" alt="Contribution Graph" />
 </p>
 
