@@ -1,11 +1,5 @@
 <!-- 🕶️ Aji Tio Kuswandhito — The Code Whisperer -->
-<pre align="center">
-      ___      _ _   _____ _       
-     / _ \ ___(_) |_|  ___(_)_ __  
-    | | | / __| | __| |_  | | '_ \ 
-    | |_| \__ \ | |_|  _| | | | | |
-     \___/|___/_|\__|_|   |_|_| |_|
-</pre>
+<p align="center"> <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="120" alt="typing terminal"/> </p>
 
 <h2 align="center">🕶️ Aji Tio Kuswandhito</h2>
 <p align="center">
@@ -36,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitiok&bg_color=0D1117&color=00FFF7&line=00C0FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitiok&bg_color=0D1117&color=00FFF7&line=00C0FF&point=FFFFFF&area=true&hide_border=true&t=20251021" alt="Contribution Graph" />
 </p>
 
 ---
