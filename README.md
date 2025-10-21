@@ -1,5 +1,5 @@
 <!-- 🕶️ Aji Tio Kuswandhito — The Code Whisperer -->
-<p align="center"> <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="120" alt="typing terminal"/> </p>
+<p align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3E2ZXA2ZzB3NWhkeHpxd3p6OGJtY25ob2F0eXN2a2t2MGE4MWFlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="120" alt="typing terminal"/> </p>
 
 <h2 align="center">🕶️ Aji Tio Kuswandhito</h2>
 <p align="center">
